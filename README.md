@@ -25,6 +25,6 @@ Excel, Or any other tool used
 Any Files used For projects.
 
 
-## Other Information
+## Other-Information
 Any additional or inforomation I find important 
 
