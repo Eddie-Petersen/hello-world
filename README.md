@@ -1,14 +1,14 @@
 # hello-world
 My First Responsitory 
 # Table Of Contents
--[PROJECT TITLE](#Project-Title)
+-[PROJECT](#Project)
 -[DESCRIPTION](#Description)
--[TOOLS USED](#Tools-Used)
--[FILES USED](#Files-Used)
--[ADDITIONAL INFORMATION](Additional-Information)
+-[TOOLS](#Tools)
+-[FILES](#Files)
+-[OTHER INFORMATION](Other-Information)
 
 
-## Project TItle
+## Project
 Hello World Sample
 
 
@@ -17,14 +17,14 @@ Hello World Sample
 First ever responsitory to help learn and use github.
 
 
-## Tools Used
+## Tools
 Excel, Or any other tool used
 
 
-## Files Used 
+## Files  
 Any Files used For projects.
 
 
-## Additional Information
+## Other Information
 Any additional or inforomation I find important 
 
