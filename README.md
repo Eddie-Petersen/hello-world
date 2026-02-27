@@ -5,7 +5,7 @@ My First Responsitory
 -[DESCRIPTION](#Description)
 -[TOOLS USED](#Tools-Used)
 -[FILES USED](#Files-Used)
--[ADDITIONAL INFORMATION](3Additional-Information)
+-[ADDITIONAL INFORMATION](Additional-Information)
 
 
 ## Project TItle
