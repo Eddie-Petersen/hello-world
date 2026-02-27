@@ -1,5 +1,5 @@
 # hello-world
-First Responsitory
+My First Responsitory 
 # Table Of Contents
 -[PROJECT TITLE](#Project-Title)
 -[DESCRIPTION](#Description)
@@ -9,17 +9,22 @@ First Responsitory
 
 
 ## Project TItle
-Title for the responsetory
+Hello World Sample
+
+
+
+## Description
+First ever responsitory to help learn and use github.
 
 
 ## Tools Used
-
+Excel, Or any other tool used
 
 
 ## Files Used 
-
+Any Files used For projects.
 
 
 ## Additional Information
-
+Any additional or inforomation I find important 
 
